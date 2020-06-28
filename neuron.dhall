@@ -1,8 +1,8 @@
 { siteTitle = "Neuron Template"
-, author = Some "John Doe"
-, siteBaseUrl = Some "https://srid.github.io/neuron-template"
+, author = Some "Nikhil Aggarwal"
+, siteBaseUrl = Some "https://nikhilagg.github.io/Zettelkasten"
 -- List of themes: https://neuron.zettel.page/2014601.html
 , theme = "teal"
-, editUrl = Some "https://github.com/srid/neuron-template/edit/master/"
+, editUrl = Some "https://github.com/nikhilagg/ZettelKasten/edit/master/"
 , mathJaxSupport = False
 }
